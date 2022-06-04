@@ -1,0 +1,23 @@
+{
+    "records":
+    [
+        {
+            "img": "",
+            "url": "https://vk.com/feed",
+            "login": "э{ђсхкЪџ?А2Ск^Ђ",
+            "password": "№„ЕЙћ eрЮP8Т"
+        },
+        {
+            "img": "",
+            "url": "www.youtube.com",
+            "login": "GЖkќ†FўIsчЦю‚и",
+            "password": "%ќ%ЬҐМЌZY^“гg§"
+        },
+        {
+            "img": "",
+            "url": "https://www.twitch.tv",
+            "login": "_Й„Iь3k!”Ч–CШК",
+            "password": "RшrЛ:C`ЈЎ‘<~ІчFц"
+        }
+    ]
+}

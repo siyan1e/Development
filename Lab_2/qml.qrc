@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>asserts/file.txt</file>
+        <file>asserts/test_file.txt</file>
+    </qresource>
+</RCC>
